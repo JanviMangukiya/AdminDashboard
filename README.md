@@ -1,11 +1,3 @@
-# Images
-![image](https://github.com/user-attachments/assets/9e0b25bb-cb1a-4438-abe8-61476cfb5ff7)
-![image](https://github.com/user-attachments/assets/4500e8dc-01e1-4f68-9241-d72c6cc736b2)
-![image](https://github.com/user-attachments/assets/56f13555-3426-4e18-a388-8416b9f925bd)
-![image](https://github.com/user-attachments/assets/0c3ff352-8cd9-425a-b8e2-f0eb6ee69589)
-![image](https://github.com/user-attachments/assets/c64cdb4a-8752-4a67-a696-393f83917dc3)
-
-
 # Admin Dashboard
 
 A Fully responsive and feature-rich admin dashboard application built with modern web technologies. This project is designed to simplify user management and streamline administrative tasks.
@@ -14,11 +6,11 @@ A Fully responsive and feature-rich admin dashboard application built with moder
 
 ## Features
 
-- **User Management**: The User Management module offers a complete solution for handling users efficiently. Administrators can view a detailed directory with user roles, statuses (Active/Inactive), and timestamps. Adding, editing, and deleting users is seamless with built-in validation. Roles can be assigned or updated dynamically through a clear hierarchy, and user statuses can be toggled easily. Batch operations for activating or deactivating multiple users enhance productivity.
+- **User Management**: The User Management module offers a complete solution for handling users efficiently. Administrators can view a detailed directory with user roles, statuses (Active/Inactive). Adding, editing, and deleting users is seamless with built-in validation. Roles can be assigned or updated dynamically through a clear hierarchy, and user statuses can be toggled easily. Batch operations for activating or deactivating multiple users enhance productivity.
 
 - **Responsive Design**: The Responsive Design ensures a seamless experience across all devices, from mobile to desktop, using Tailwind CSS. The layout dynamically adapts to different screen sizes, maintaining a consistent and user-friendly interface. Touch-friendly elements and responsive components ensure efficient workflows, providing flexibility for administrators on the go.
 
-- **Dynamic Functionality**: The Dynamic Functionality ensures a fast and scalable experience by using efficient, reusable components. Modular design reduces redundancy and supports real-time updates, enabling seamless interactions. This approach simplifies customization, streamlines development, and ensures the dashboard adapts easily to evolving needs.
+- **Dynamic Functionality**: Dynamic functionality ensures the dashboard is fast and adaptable. It uses reusable parts to make it efficient and avoid repetition. The design is modular, so it’s easy to update and customize. This helps the dashboard handle changes quickly, making it simple to use and keep up with evolving needs.
   
 - **Customization**: The Customization feature allows the Admin Dashboard to be easily adapted to different administrative workflows. With configurable components, administrators can modify roles, permissions, and layouts to fit specific needs, ensuring the dashboard remains flexible and aligned with evolving organizational requirements.
 
@@ -64,12 +56,10 @@ Follow these steps to set up and run the project locally:
    ```arduino
    http://localhost:3000
 
-### Project Structure
+# Images
+![image](https://github.com/user-attachments/assets/9e0b25bb-cb1a-4438-abe8-61476cfb5ff7)
+![image](https://github.com/user-attachments/assets/4500e8dc-01e1-4f68-9241-d72c6cc736b2)
+![image](https://github.com/user-attachments/assets/56f13555-3426-4e18-a388-8416b9f925bd)
+![image](https://github.com/user-attachments/assets/0c3ff352-8cd9-425a-b8e2-f0eb6ee69589)
+![image](https://github.com/user-attachments/assets/3a1f600a-0f7d-4131-8fcf-0db04a5d0ecf)
 
-AdminDashboard/
-├── src/                  # Main source code
-├── public/               # Static files
-├── tailwind.config.js    # Tailwind CSS configuration
-├── package.json          # Project metadata and dependencies
-├── .gitignore            # Files ignored by Git
-└── README.md             # Project documentation
