@@ -62,21 +62,3 @@ AdminDashboard/
 ├── package.json          # Project metadata and dependencies
 ├── .gitignore            # Files ignored by Git
 └── README.md             # Project documentation
-
-### Contributions
-
-1. Fork the repository.
-
-2. Create a new branch:  
-    ```bash
-    git checkout -b feature-name
-
-3. Make your changes and commit them:
-   ```bash
-   git commit -m "Description of changes"
-
-4. Push to your fork:
-   ```bash
-  git push origin feature-name
-
-
